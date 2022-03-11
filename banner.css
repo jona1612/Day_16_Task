@@ -1,0 +1,75 @@
+.hector img{
+    display: block; 
+    max-width: 100%;
+    height: auto;
+}
+
+.num-size{
+    font-size: 50px !important;
+}
+
+.people img{
+    font-size: x-large !important;
+}
+
+.diabetes{
+    height: 10% !important;
+    width: 65% !important;
+    padding-right: 0% !important;
+}
+
+.lorem{
+    padding-right: 0% !important;
+}
+
+.lorem{
+    padding-right: 0% !important;
+}
+
+.million{
+    margin-right: 0% !important;
+}
+
+.fries{
+    width: 22% !important;
+}
+
+.ice-cream{
+    width: 90% !important;
+}
+
+.adult{
+    width: 90% !important;
+}
+
+.bread{
+    width: 40% !important;
+}
+
+.veges{
+    width: 60% !important;
+}
+
+.fish{
+    width: 55% !important;
+}
+
+.milk{
+    width: 55% !important;
+}
+
+.cake{
+    width: 60% !important;
+}
+
+.border-right{
+    border-right-style : dashed !important;
+    margin-right: 10px !important;
+    margin-top: 20px !important;
+    margin-bottom: 20px !important;
+    border-color: rgb(147, 147, 155);
+}
+
+.nearly{
+    line-height: 1em !important;
+}
